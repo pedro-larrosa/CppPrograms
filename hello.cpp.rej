@@ -1,0 +1,9 @@
+diff a/hello.cpp b/hello.cpp	(rejected hunks)
+@@ -5,7 +5,6 @@
+ int main()
+ {
+ 	cout << "Si lees esto y te llamas Domingo te quedan 2 horas";
+-	cout << "tio me da igual";
+ 	cout << "He llegado a tiempo???????????? LMAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO";
+ 
+ 	return 0;
