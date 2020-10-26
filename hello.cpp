@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	cout << "Si lees esto y te llamas Domingo te quedan 2 horas";
-	cout << "He llegado a tiempo???????????? LMAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO";
+	cout << "tio me da igual";
 
 	return 0;
 }
